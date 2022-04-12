@@ -1,5 +1,7 @@
 ### Olá! Seja bem-vindo ao meu perfil.
 
+<img src="https://komarev.com/ghpvc/?username=davilos&color=blueviolet&style=flat">
+
 - Sou estudante
 - Estou aprendendo Python
 
@@ -21,4 +23,3 @@
  </div>
 
   ![Snake animation](https://github.com/davilos/davilos/blob/output/github-contribution-grid-snake.svg)
-  
