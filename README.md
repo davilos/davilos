@@ -3,7 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=davilos&color=blueviolet&style=flat">
 
 - Sou estudante
-- Estou aprendendo Python
+- Programador profissional de Python
+- Atualmente me aprofundando mais na linguagem Python
+- Aprendendo banco de dados SQL, NOSQL, Django e API Rest
 
 <div align="center">
   <a href="https://github.com/davilos">
