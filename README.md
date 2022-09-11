@@ -4,7 +4,6 @@
 
 - Sou estudante
 - Programador profissional de Python
-- Atualmente me aprofundando mais na linguagem Python
 - Aprendendo banco de dados SQL, NOSQL, Django e API Rest
 
 <div align="center">
