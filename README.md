@@ -1,7 +1,5 @@
 ### Olá! Seja bem-vindo ao meu perfil.
 
-<img src="https://komarev.com/ghpvc/?username=davilos&color=blueviolet&style=flat">
-
 - Sou estudante
 - Programador profissional de Python
 - Aprendendo banco de dados SQL, NOSQL, Django e API Rest
