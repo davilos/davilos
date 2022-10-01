@@ -2,7 +2,7 @@
 
 - Sou estudante
 - Programador profissional de Python
-- Aprendendo banco de dados SQL, NOSQL, Django e API Rest
+- Aprendendo banco de dados SQL/NOSQL, Django e criação de APIs Rest com Python e Django.
 
 <div align="center">
   <a href="https://github.com/davilos">
