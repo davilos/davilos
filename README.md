@@ -1,8 +1,6 @@
 ### Olá! Seja bem-vindo ao meu perfil.
 
 - Desenvolvedor back-end
-- Programador profissional de Python
-- Aprendendo banco de dados SQL/NOSQL, Django e criação de APIs Rest com Python e Django.
 
 ##
 
