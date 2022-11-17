@@ -34,7 +34,7 @@
 
 ### OS
 <div style="display: inline_block">
-  <img align="center" alt="Davilos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Davilos-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Davilos-Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
   
