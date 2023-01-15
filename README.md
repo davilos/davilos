@@ -1,6 +1,7 @@
 ### Hi! Welcome to my profile. My name is Dávilos, and i'm a student programmer.
 
-- Backend Developer
+- Backend Developer.
+- Currently learning Django | SQL & NoSQL | Linux | Python
 
 ##
 
