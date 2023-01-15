@@ -41,6 +41,8 @@
 
   ![Snake animation](https://github.com/davilos/davilos/blob/output/github-contribution-grid-snake.svg)
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
