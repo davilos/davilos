@@ -5,11 +5,19 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/davilos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davilos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilos&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  <img align="left" alt="davilos' Github Stats " src="https://github-readme-stats-davilos.vercel.app/api?username=davilos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+  <img align="left" alt="davilos' Most Used Languages " src="https://github-readme-stats-davilos.vercel.app/api/top-langs/?username=davilos&layout=compact&langs_count=7&theme=dark"/>
+  
+</details>
   
 ### Programming languages:
 <div style="display: inline_block"><br>
