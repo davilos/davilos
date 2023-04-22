@@ -1,13 +1,14 @@
 ### Hi! Welcome to my profile. My name is Dávilos, and i'm a student at Uninassau college.
 
 - Backend Developer.
-- Currently learning Django | SQL & NoSQL | Linux | Python
+- Currently learning Java | Django | SQL & NoSQL
 
 ##
  
-### Programming languages:
+### Programming languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Davilos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Davilos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ### Frameworks
