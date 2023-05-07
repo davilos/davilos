@@ -1,7 +1,8 @@
-### Hi! Welcome to my profile. My name is Dávilos, and i'm a student at Uninassau college.
+### Bem-vindo ao meu perfil.
 
-- Backend Developer.
-- Currently learning Java | Django | SQL & NoSQL
+- Desenvolvedor backend
+- Atualmente estudando Java | Angular | Django
+- Cursando Análise e desenvolvimento de sistemas 
 
 ##
  
