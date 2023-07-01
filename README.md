@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu perfil.
 
 - Desenvolvedor backend
-- Atualmente estudando Java | Angular | Django
+- Atualmente estudando Java
 - Cursando Análise e desenvolvimento de sistemas 
 
 ##
