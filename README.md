@@ -1,8 +1,7 @@
-### Bem-vindo ao meu perfil.
+## Welcome to my profile
 
-- Desenvolvedor backend
-- Atualmente aprendendo Java, JDBC, Spring Boot, JPA, JavaFX
-- Cursando Análise e Desenvolvimento de Sistemas 
+- Backend engineer
+- Currently working with Python · Django · Docker · DRF · PostgreSQL 
 
 <div align="center" style="display: inline_block"><br>
   <img alt="Davilos-Python" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,6 +18,8 @@
 </div>
   
 ---
+
+### Contact me
  
 <div> 
   <a href = "https://www.linkedin.com/in/davilos-tavares-51a4a721a/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
