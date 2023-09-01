@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-- Backend engineer
+- Backend software engineer
 - Currently working with Python · Django · Docker · DRF · PostgreSQL 
 
 <div align="center" style="display: inline_block"><br>
