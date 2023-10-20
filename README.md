@@ -26,10 +26,3 @@
 </div>
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="davilos' Github Stats " src="https://github-readme-stats-black-eta-54.vercel.app/api?username=davilos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-</details>
