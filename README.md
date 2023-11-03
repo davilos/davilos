@@ -1,7 +1,7 @@
 <div align="center">
   <h1> <strong>Welcome to my profile!</strong> </h1>
 
-  <p> <strong>Backend software engineer</strong> </p>
+  <p> <strong>Hello! I'm a Software Engineer</strong> </p>
   <p> <strong>Currently working with Python · Django · DRF · Docker · PostgreSQL</strong> </p>
 </div>
 
