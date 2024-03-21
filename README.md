@@ -10,7 +10,7 @@
 <div align="center" style="display: inline_block">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,python,js,django,docker,mysql,git,linux&theme=dark" alt="Davilos' Tech Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,python,js,django,docker,mysql,git,linux&theme=dark" alt="Davilos' Tech Skills" />
     </a>
   </p>
 </div>
