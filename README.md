@@ -3,6 +3,8 @@
 
   <p> <strong>:computer: Eu sou um Desenvolvedor de Software com foco em back-end.</strong> </p>
   <p> <strong>:keyboard: Atualmente trabalhando com Fastify · Prisma · TypeScript · Vitest</strong> </p>
+  <p> <strong>:pencil: Estudando a cultura DevOps</strong> </p>
+
 </div>
 
 ---
