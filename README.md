@@ -3,8 +3,6 @@
 
   <p> <strong>:computer: Eu sou um Desenvolvedor de Software Full-Stack.</strong> </p>
   <p> <strong>:keyboard: Atualmente trabalhando com TypeScript · React · Material UI · Express · TypeORM · SQL </strong> </p>
-  <p> <strong>:pencil: Estudando a cultura DevOps</strong> </p>
-
 </div>
 
 ---
