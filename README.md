@@ -2,7 +2,7 @@
   <h1> <strong>:wave: Bem vindo ao meu perfil!</strong> </h1>
 
   <p> <strong>:computer: Eu sou um Desenvolvedor de Software Full-Stack.</strong> </p>
-  <p> <strong>:keyboard: Atualmente trabalhando com TypeScript · React · Material UI · Express · TypeORM · SQL </strong> </p>
+  <p> <strong>:keyboard: Atualmente trabalhando com TypeScript · React · Next.js · NestJS · Prisma </strong> </p>
 </div>
 
 ---
