@@ -1,8 +1,8 @@
 <div align="center">
   <h1> <strong>:wave: Bem vindo ao meu perfil!</strong> </h1>
 
-  <p> <strong>:computer: Desenvolvedor de Software Full-Stack.</strong> </p>
-  <p> <strong>:keyboard: Atualmente trabalhando com TypeScript · React · Next.js · NestJS </strong> </p>
+  <p> <strong>:computer: Engenheiro de Software</strong> </p>
+  <p> <strong>:keyboard: Atualmente trabalhando com TypeScript · Python · React · Next.js · NestJS</strong> </p>
 </div>
 
 ---
